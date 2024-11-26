@@ -11,7 +11,7 @@
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
@@ -33,10 +33,7 @@
 ## Conference
 - 한국멀티미디어공학회, 뉴스 데이터를 활용한 Whisper 모델 Fine-Tuning
 
-
-<div style="text-align: lefg;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Awards </h2> 
-        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-           <li> - [2023.12] 1st Award, Dong‐A University DevDay</li>
-           <li> - [2024.11] 3rd Award, Dong‐A University DevDay </li>
- </div><br>
+## Awards
+- [2023.12] 1st Award, Dong‐A University DevDay
+- [2024.11] 3rd Award, Dong‐A University DevDay
+- [2024.11] Bast Paper Award, Korea Multimedia Society
