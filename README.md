@@ -20,9 +20,10 @@
 
 ## Awards
 - [2023.12] 1st Award, Dong‐A University DevDay
+- [2024.08] Software Performance Sharing Forum
 - [2024.11] 3rd Award, Dong‐A University DevDay
 - [2024.11] Bast Paper Award, Korea Multimedia Society
-- [2024.08] Software Performance Sharing Forum
+- [2025.02] Bronze Award, Capstone Design Contest
 
     <div align= "left">  </div> 
     </div>
