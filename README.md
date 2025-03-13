@@ -28,6 +28,7 @@
 - 위장 객체 탐지를 위한 데이터 증강 기법
 - AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발
 - Nvidia jetson을 이용한 face detection
+- 디지털 패션을 위한 신발 스케치 기반 가상 피팅
 
 
 ## Conference
@@ -37,3 +38,4 @@
 - [2023.12] 1st Award, Dong‐A University DevDay
 - [2024.11] 3rd Award, Dong‐A University DevDay
 - [2024.11] Bast Paper Award, Korea Multimedia Society
+- [2024.08] Software Performance Sharing Forum
