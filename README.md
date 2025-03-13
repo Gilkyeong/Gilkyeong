@@ -7,8 +7,6 @@
         <a href="mailto:gilkyeong.yu@m4ml.re.kr"><img src ="https://img.shields.io/badge/M4ML-0078D7?style=for-the-badge&logo=M4ML&logoColor=white&link=mailto:gilkyeong.yu@m4ml.re.kr"/></a>
         <a href=mailto:2243869@donga.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:2243869@donga.ac.kr"> </a>
           </div><br> 
-    <div align= "left">  </div> 
-    </div>
 
 ## Project
 - 위장 객체 탐지를 위한 데이터 증강 기법
@@ -26,6 +24,8 @@
 - [2024.11] Bast Paper Award, Korea Multimedia Society
 - [2024.08] Software Performance Sharing Forum
 
+    <div align= "left">  </div> 
+    </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
