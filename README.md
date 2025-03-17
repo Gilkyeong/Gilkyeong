@@ -6,7 +6,7 @@
     <div align= "left">
         <a href="mailto:gilkyeong.yu@m4ml.re.kr"><img src ="https://img.shields.io/badge/M4ML-0078D7?style=for-the-badge&logo=M4ML&logoColor=white&link=mailto:gilkyeong.yu@m4ml.re.kr"/></a>
         <a href=mailto:2243869@donga.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:2243869@donga.ac.kr"> </a>
-          </div><br> 
+          </div>
 
 ## 📂 Project
 - 위장 객체 탐지를 위한 데이터 증강 기법
@@ -28,7 +28,7 @@
     <div align= "left">  </div> 
     </div>
     <div align= "left">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 	🔧 Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
