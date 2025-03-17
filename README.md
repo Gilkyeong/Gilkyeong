@@ -2,23 +2,23 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=Welcome%20to%20Gilkyeong's%20github&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
         <div align= "left">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✉️ Contact </h2> <br> 
     <div align= "left">
         <a href="mailto:gilkyeong.yu@m4ml.re.kr"><img src ="https://img.shields.io/badge/M4ML-0078D7?style=for-the-badge&logo=M4ML&logoColor=white&link=mailto:gilkyeong.yu@m4ml.re.kr"/></a>
         <a href=mailto:2243869@donga.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:2243869@donga.ac.kr"> </a>
           </div><br> 
 
-## Project
+## 📂 Project
 - 위장 객체 탐지를 위한 데이터 증강 기법
 - AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발
 - Nvidia jetson을 이용한 face detection
 - 디지털 패션을 위한 신발 스케치 기반 가상 피팅
 
 
-## Conference
+## 📑 Conference
 - 한국멀티미디어공학회, 뉴스 데이터를 활용한 Whisper 모델 Fine-Tuning
 
-## Awards
+## 👑 Awards
 - [2023.12] 1st Award, Dong‐A University DevDay
 - [2024.08] Software Performance Sharing Forum
 - [2024.11] 3rd Award, Dong‐A University DevDay
