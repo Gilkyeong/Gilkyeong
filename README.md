@@ -3,10 +3,10 @@
     </div>
         <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✉️ Contact </h2>
-    <div align= "left">
-        <a href="mailto:gilkyeong.yu@m4ml.re.kr"><img src ="[https://img.shields.io/badge/M4ML-0078D7?style=for-the-badge&logo=M4ML&logoColor=white](https://img.shields.io/badge/M4ML-0078D7?style=flat-squaare&logo=Microsoft-edge&logoColor=white&link=mailto:gilkyeong.yu@m4ml.re.kr"/></a>
-        <a href=mailto:2243869@donga.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:2243869@donga.ac.kr"> </a>
-          </div>
+<div style="display:flex; flex-direction:row;">
+   <a href="mailto:gilkyeong.yu@m4ml.re.kr"><img src ="https://img.shields.io/badge/M4ML-0078D7?style=flat-squaare&logo=Microsoft-edge&logoColor=white"/></a>
+   <a href="mailto:2243869@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
+</div>
 
 ## 📂 Project
 - 위장 객체 탐지를 위한 데이터 증강 기법
