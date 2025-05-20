@@ -17,6 +17,7 @@
 
 ## 📑 Conference
 - 한국멀티미디어공학회, 뉴스 데이터를 활용한 Whisper 모델 Fine-Tuning
+- 임베디드 환경을 위한 End-to-End 딥러닝 기반 FCM
 
 ## 👑 Awards
 - [2023.12] 1st Award, Dong‐A University DevDay
