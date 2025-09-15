@@ -9,10 +9,12 @@
 </div>
 
 ## 📂 Project
-- 위장 객체 탐지를 위한 데이터 증강 기법
-- AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발
-- Nvidia jetson을 이용한 face detection
-- 디지털 패션을 위한 신발 스케치 기반 가상 피팅
+- Data augmentation method for camouflage object detection
+- Developement of Deep Learning based Closed Caption Extraction Technology
+- Facial recognition based attendance management system
+- 2024 RIS Regional Issue Capstone Design
+- Performance Improvement of RGB-IR Multimodal-Based Object Detection Model
+- Developing an FCM agent for high level deep learning in embedded systems
 
 
 ## 📑 paper
