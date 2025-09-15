@@ -15,9 +15,12 @@
 - 디지털 패션을 위한 신발 스케치 기반 가상 피팅
 
 
-## 📑 Conference
-- 한국멀티미디어공학회, 뉴스 데이터를 활용한 Whisper 모델 Fine-Tuning
-- 임베디드 환경을 위한 End-to-End 딥러닝 기반 FCM
+## 📑 paper
+### Conference
+- 한국멀티미디어학회, 뉴스 데이터를 활용한 Whisper 모델 Fine-Tuning
+- 한국방송·미디어공학회. 임베디드 환경을 위한 End-to-End 딥러닝 기반 FCM
+### Journal
+- 한국멀티미디어학회, Cross-Modality YOLO 저가시성 환경 극복을 위한 RGB-IR 영상 기반 객체 탐지 기술 연구
 
 ## 👑 Awards
 - [2023.12] 1st Award, Dong‐A University DevDay
