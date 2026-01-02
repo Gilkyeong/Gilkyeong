@@ -22,7 +22,7 @@
 ### Conference
 - Korea Multimedia Society Autumn Conference 2024, Whisper model Fine-Tuning using news data
 - Broadcast Media Engineering Society Summer Conference 2025. End-to-End Deep Learning based FCM for Embeded Environment
-- Inference Efficiency Optimization of Lightweight FCTM Using Post-Training Quantization
+- Broadcast Media Engineering Society Autumn Conference 2025. Inference Efficiency Optimization of Lightweight FCTM Using Post-Training Quantization
 ### Journal
 - Korea Multimedia Society KCI 2025, Cross Modality YOLO: Object Detection Using RGB-IR Images in Low Visibility Conditions
 
