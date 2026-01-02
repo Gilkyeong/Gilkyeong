@@ -15,12 +15,14 @@
 - 2024 RIS Regional Issue Capstone Design
 - Performance Improvement of RGB-IR Multimodal-Based Object Detection Model
 - Developing an FCM agent for high level deep learning in embedded systems
+- FCM project
 
 
 ## 📑 paper
 ### Conference
 - Korea Multimedia Society Autumn Conference 2024, Whisper model Fine-Tuning using news data
 - Broadcast Media Engineering Society Summer Conference 2025. End-to-End Deep Learning based FCM for Embeded Environment
+- Inference Efficiency Optimization of Lightweight FCTM Using Post-Training Quantization
 ### Journal
 - Korea Multimedia Society KCI 2025, Cross Modality YOLO: Object Detection Using RGB-IR Images in Low Visibility Conditions
 
@@ -30,6 +32,7 @@
 - [2024.11] 3rd Award, Dong‐A University DevDay
 - [2024.11] Bast Paper Award, Korea Multimedia Society
 - [2025.02] Bronze Award, Capstone Design Contest
+- [2025.11] Bast Paper Award, KBME Society
 
     <div align= "left">  </div> 
     </div>
